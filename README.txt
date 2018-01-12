@@ -39,3 +39,12 @@ This whole model is predicated on being able to account for infinitesimally smal
 You are integrating velocity- you are taking the area under the velocity curve by finding the limit
 as n goes towards infinity of a sum starting at i ending at n of the velocity function. This assumption
 is no longer warranted when we arent considering a case with n approaching infinity. QED
+
+
+
+
+Using the kinematics equations, we approximate the movement of bodies around each other, depending on the input file. 
+
+A successful demonstration of the code's functionality can be found in using the planets.txt file when prompted. 
+
+It should show the 9 planets orbiting the sun for a period in time. 
