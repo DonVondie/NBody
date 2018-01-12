@@ -12,16 +12,7 @@ Hours to complete assignment (optional):
 
 5
 
-A few to figure out that my code from the fall does not, 
-in fact, cut it. The return value in the fall was a 2 x 5
-array for planets.txt, whereas, in the present time, the 
-requirement is that we supply a 5 x 2 matrix. Tricksy, false
-hobbits! That is a good way to sort out the riff raff so I can't
-complain. 
 
-Cheers,
-
-Richie
 
 
 
