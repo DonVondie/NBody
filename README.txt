@@ -13,7 +13,7 @@ Resources Used:
 Impressions: 
 
 
-	This is an empowering first assignment. How can you not feel like God rolling the marbles onto a spiral?
+	This is an empowering first assignment.
 
 Question 1: What is the final position of the planets after 1,000,000
 seconds with a timestep of 25,000?
